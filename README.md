@@ -1,1 +1,11 @@
-# rc
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device, initial-scaled=1.0">
+    <title>RoCamp | Cheap Robux</title>
+</head>
+<body>
+    <h1>hi</h1>
+    <p>hi</p>
+</body>
+</html>
